@@ -7,24 +7,24 @@
   min-height: 800px;
 }
 
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 248px;
+  margin: 20px 20px 0;
+}
+
 .u-section-1 .u-text-1 {
-  font-size: 6rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin: 60px auto 0 20px;
+  margin: 20px auto 0 20px;
 }
 
 .u-section-1 .u-text-2 {
   margin: 20px auto 0 20px;
 }
 
-.u-section-1 .u-text-3 {
-  margin: 20px auto 0 20px;
-}
-
 .u-section-1 .u-btn-1 {
-  background-image: none;
+  border-style: solid;
   text-transform: uppercase;
+  letter-spacing: 0px;
   font-weight: 700;
   margin: 20px 20px 60px;
 }
@@ -32,10 +32,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 660px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: 0;
   }
 
   .u-section-1 .u-btn-1 {
@@ -52,22 +48,28 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 380px;
+    min-height: 367px;
   }
 
-  .u-section-1 .u-text-1 {
-    font-size: 3.75rem;
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 235px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 280px;
   }
 
-  .u-section-1 .u-text-1 {
-    font-size: 3rem;
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 148px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 552px;
 }@font-face {
   font-family: 'LeagueGothic-Regular';
   font-style: normal;
