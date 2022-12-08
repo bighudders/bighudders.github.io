@@ -160,6 +160,7 @@
 .u-section-2 .u-image-1 {
   min-height: 266px;
   background-image: url("/images/pass.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -237,7 +238,6 @@
 
   .u-section-2 .u-image-1 {
     min-height: 315px;
-    background-position: 50% 50%;
   }
 
   .u-section-2 .u-layout-cell-2 {
