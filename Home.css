@@ -494,7 +494,11 @@
 
 .u-container-layout.hover .u-block-a114-79:not([data-block-selected]):not([data-cell-selected]) {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
-}.u-section-4 .u-sheet-1 {
+} .u-section-4 {
+  background-image: linear-gradient(#465767, #478ac9);
+}
+
+.u-section-4 .u-sheet-1 {
   min-height: 223px;
 }
 
