@@ -205,6 +205,7 @@
   }
 } .u-section-3 {
   background-image: url("/images/DouaumontOssuaryWarGraves3.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -271,10 +272,10 @@
 .u-section-3 .u-group-3 {
   width: 310px;
   background-image: none;
-  min-height: 235px;
+  min-height: 219px;
   height: auto;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: -477px auto 60px;
+  margin: -488px auto 60px;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -1167,11 +1168,11 @@
 }
 
 .u-section-7 .u-text-3 {
-  margin: 4px 20px 0 0;
+  margin: 0 20px 0 0;
 }
 
 .u-section-7 .u-text-4 {
-  margin: 9px 20px 0 0;
+  margin: 11px 20px 0 0;
 }
 
 @media (max-width: 1199px) {
